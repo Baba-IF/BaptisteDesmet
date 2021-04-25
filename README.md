@@ -10,6 +10,15 @@ Hello everyone, my name is Baptiste Desmet and I want to become a developer for 
 <img src="https://github-readme-stats.vercel.app/api?username=BaptisteDesmet&show_icons=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaptisteDesmet&layout=compact" />
 
+## Would like to learn 
+
+* JS
+* PHP
+* C#
+* C++
+* React
+* NodeJS
+
 # <center><a href="https://european-air.com/"><img src="https://i.ibb.co/cxc2cFR/eua-banner.png" alt="eua-banner" border="0"></a></center>
 
 ## Presentation
